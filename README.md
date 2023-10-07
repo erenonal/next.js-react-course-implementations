@@ -1,2 +1,1 @@
-# next.js-react-course-implementations
-next.js and react code examples course notes
+This is a repository that includes some course applications and hands-on practice next.js react codes. Each branches includes different applications and implementations.
